@@ -12,7 +12,9 @@
 
 ## Contributors
 Thank you kepada teman-teman kelompok yang telah membantu menyukseskan tugas UTS ini
-[all-contributors](https://github.com/all-contributors/all-contributors)
+@YALENZA
+@acedia-a
+@kucingbernafas
 
 
 ---

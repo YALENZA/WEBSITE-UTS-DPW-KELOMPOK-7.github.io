@@ -10,8 +10,8 @@
 ## Tentang Website  
   Website ini dibuat menggunakan HTML dengan Framework CSS, yaitu bootstrap. 
 ## Perubahan Pada Website
-  * Mengubah bentuk dan tampilan warna pada Navbar  
-  * Mengubah ukuran dan jenis typeface yang digunakan pada web  
+  * Mengubah bentuk dan tampilan warna pada Navbar untuk meningkatkan estetika  
+  * Mengubah ukuran dan jenis typeface yang digunakan pada web untuk meningkatkan keterbacaan  
 ## Contributors  
 Thank you kepada teman-teman kelompok yang telah membantu menyukseskan tugas UTS ini  
 * [@YALENZA]  

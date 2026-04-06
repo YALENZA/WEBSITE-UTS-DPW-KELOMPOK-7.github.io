@@ -223,3 +223,51 @@
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
+
+/* FOOTER */
+.footer-demo {
+    background-color: #000;
+    color: #fff;
+    padding: 40px 0 20px;
+    font-size: 14px;
+}
+
+.footer-demo .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-left: 0;
+    padding: 0 15px;
+}
+
+.footer-demo a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-demo a:hover {
+    text-decoration: underline;
+}
+
+.footer-demo .footer-logo img {
+    max-width: 150px;
+}
+
+.footer-demo .row>div {
+    margin-bottom: 20px;
+}
+
+.footer-demo h5 {
+    font-size: 16px;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+.footer-demo ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-demo ul li {
+    margin-bottom: 8px;
+}

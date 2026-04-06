@@ -8,7 +8,10 @@
   * Athaya mengerjakan bagian body pt-1  
   * Fadhillah mengerjakan bagian header & footer  
 ## Tentang Website  
-  Website ini dibuat menggunakan HTML dengan Framework CSS, yaitu bootstrap.  
+  Website ini dibuat menggunakan HTML dengan Framework CSS, yaitu bootstrap. 
+## Perubahan Pada Website
+  * Mengubah bentuk dan tampilan warna pada Navbar  
+  * Mengubah ukuran dan jenis typeface yang digunakan pada web  
 ## Contributors  
 Thank you kepada teman-teman kelompok yang telah membantu menyukseskan tugas UTS ini  
 * [@YALENZA]  
